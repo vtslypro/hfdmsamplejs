@@ -1,0 +1,12 @@
+{
+  "name": "swagger",
+  "version": "1.0.0",
+  "description": "Swagger Endpoint Tests",
+  "author": "Vatsalya Aenuganti",
+  "dependencies": {
+    "@adsk/forge-hfdm": "0.0.55",
+    "fs": "0.0.2",
+    "request": "^2.74.0"
+  },
+  "devDependencies": {}
+}
